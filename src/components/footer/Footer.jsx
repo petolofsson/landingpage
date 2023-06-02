@@ -4,7 +4,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <p className='footer__logo'>The Polestar Shall</p>
+      <p className='footer__logo'>The Polestar Shell</p>
 
       <ul className='permalinks'>
         <li><a href='#home'>Home</a></li>
